@@ -27,7 +27,7 @@ models, by how they route information through depth.
 }
 ```
 
-License: to be added.
+License: MIT (see `LICENSE`).
 
 ## Repository layout
 
