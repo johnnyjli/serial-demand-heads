@@ -1,0 +1,26 @@
+# raw captures and results (not distributed)
+data/
+results/
+*.npz
+*.npy
+*.pt
+*.pkl
+*.safetensors
+
+# outputs the scripts write next to themselves
+analysis/**/*.json
+analysis/**/*.csv
+analysis/**/*.log
+analysis/**/cache/
+analysis/**/*.pdf
+analysis/**/*.png
+checks/*.json
+figures/**/*.json
+figures/**/*.pdf
+figures/**/*.png
+
+# Python / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
